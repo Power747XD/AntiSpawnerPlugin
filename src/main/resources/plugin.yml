@@ -1,0 +1,4 @@
+name: antispawnerplugin
+version: '${version}'
+main: org.power747xd.antispawnerplugin.Antispawnerplugin
+api-version: 1.20
